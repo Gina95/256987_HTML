@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin:0;
+}
+html {
+    font-size: 18px;
+}   
+body{
+    background-color: brown;
+}
+.hasab{
+   width:50%;
+   float:left;
+}
+
